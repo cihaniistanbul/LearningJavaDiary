@@ -91,13 +91,53 @@ Not 2023-09-11-012: Şimdi merak ettiğim şu: Aynı dosyanın önceki komitlerd
           Belki de 3. komitin URL'si ölü link olacak. Bakalım görelim.
 
 
+--------------------5. Komit Sonrası Notlar---------------------
 
-        
 
-(Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023)
-(Bu Günlük Girdisinin 2. Komit Tarihi: 11 Eylül 2023)
-(Bu Günlük Girdisinin 3. Komit Tarihi: 11 Eylül 2023)
-(Bu Günlük Girdisinin 4. Komit Tarihi: 11 Eylül 2023)
+Not 2023-09-11-013: Bu not 012 numaralı notla ilgili. Önceki komit işlemeleri sabitmiş. 3. komitin URL'sine gittiğimde  
+          https://github.com/seyitserdarcihan/LearningJavaDiary/commit/1e7cc25ffc52fdd3b63c7dbba6f67dea7075ed80?diff=unified
+          sayfa yerinde duruyor ve 4. komit hiç işlenmemiş gibi duruyor, 4. komit hiç yokmuş gibi. Bu güzel. Şimdi merak
+          ettiğim ise şu: Aynı dosya üzerinde değişiklik yapan komitlerin hepsini liste olarak veya başka kullanışlı bir yoldan
+          görebilmenin ve çabucak istediğin komite gidebilmenin bir yolu var mı? Bunu GitHub'da bulamadım, bu yüzden kısa
+          bir Google araması yapacağım.
+          Ve buldum:
+          https://github.com/seyitserdarcihan/LearningJavaDiary/commits
+          Üstteki URL'de "LearningJavaDiary" kısmı değişken, diğer her şey sabit. Değişken kelime reponun adı.
+          Artık herhangi bir repo üzerinde yapılan bütün komitlere gitmek istediğinde ne yapman gerektiğini biliyorsun.
+          Problem şu ki, LearningJavaDiary reposunda binlerce girdi olacak ileride Allah izin verir de ölmezsem. Peki o zaman commits 
+          sayfasına gittiğimde istediğim komiti nasıl bulacağım? 
+          Sanırım bunu ileride görmem gerekiyor. 
+          Asıl önemli olan şu, komitler arasında arama yapmak değil, en son komitlerin oluşturduğu repodaki uzun listede 
+          istediğim günlük girdisini bulmak? 
+          Başka bir soru şu: Bir reponun tamamına değil, sadece bir dosyaya ait komitlerin listesini görebileceğim bir 
+          web sayfası var mı? 
 
+
+
+_________________Bu Günlük Girdisinin Komit Tarihleri_________________
+_________________1. Komit_________________
+Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
+URL:
+https://github.com/seyitserdarcihan/LearningJavaDiary/commit/d19fe5c6146f897f84970b47c94c735eb86ab9fa
+Komit mesajı: Diary-Entry-000001-Change-000000
+_________________2. Komit_________________
+Tarih: 11 Eylül 2023 
+URL:
+https://github.com/seyitserdarcihan/LearningJavaDiary/commit/ceda9734d85a85d6009dcda0b683b81daecebcbd
+Komit mesajı: Diary-Entry-000001-Change-000001
+_________________3. Komit_________________
+Tarih: 11 Eylül 2023
+URL: 
+https://github.com/seyitserdarcihan/LearningJavaDiary/commit/1e7cc25ffc52fdd3b63c7dbba6f67dea7075ed80
+Komit mesajı: Diary-Entry-000001-Change-000002
+_________________4. Komit_________________
+Tarih: 11 Eylül 2023
+URL: 
+https://github.com/seyitserdarcihan/LearningJavaDiary/commit/9652b6f94df7ca96959b0582c2636f7b185c729f
+Komit mesajı: Diary-Entry-000001-Change-000003
+_________________5. Komit_________________
+Tarih: 11 Eylül 2023
+URL: 
+Komit mesajına tıkla: Diary-Entry-000001-Change-000003
 
 
