@@ -1,0 +1,21 @@
+► Press Shift twice to open the Search Everywhere dialog.
+
+► Type `show whitespaces` then press Enter. 
+
+► You can now see whitespace characters in your code. 
+     You see them as dots.
+
+
+
+
+
+_________________Bu Günlük Girdisinin Komit Tarihleri_________________
+_________________1. Komit_________________
+Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
+URL:
+Komit mesajına tıkla: Diary-Entry-000002-Change-000000
+
+
+
+
+
