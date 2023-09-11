@@ -74,13 +74,30 @@ Not 2023-09-11-010: GitHub sitesinin temel kavramlarından olan İngilizce commi
           olarak.   
 
 
+--------------------4. Komit Sonrası Notlar---------------------
 
 
+Not 2023-09-11-011: Eğer komit değişikliği mesajının üzerine tıklarsan, açılan sayfada, dosyaya yeni eklemeler 
+          yeşil arka fonla gösteriliyor ve eğer o komitte metin çıkarma yaptıysan, bu da kırmızı arka fonla gösteriliyor. 
+          Üzerine tıkladığım komit mesajı (commit message) şuydu: Diary-Entry-000001-Change-000002
+          Tıkladığımda gittiğim URL şuydu:
+          https://github.com/seyitserdarcihan/LearningJavaDiary/commit/1e7cc25ffc52fdd3b63c7dbba6f67dea7075ed80?diff=unified
+
+Not 2023-09-11-012: Şimdi merak ettiğim şu: Aynı dosyanın önceki komitlerdeki versiyonlarına, sanki sonraki
+          komitler üzerine hiç işlenmemiş gibi erişilebiliyor mu? Bunu tespit etmenin şu anda bulabildiğim tek yolu şu,
+          3. komitin sonucunu gösteren URL'yi yukarıya yazdım. Acaba, 4. komit işlendikten sonra, o URL'ye 
+          gittiğimde ne bulacağım? GitHub, yeni komitin URL'sine otomatikman yönlendirme mi yapacak, yoksa
+          yeni komitin adresine yönlendirmeyecek ve dosyanın önceki versiyonunu kalıcı olarak görebilecek miyim?
+          Belki de 3. komitin URL'si ölü link olacak. Bakalım görelim.
+
+
+
+        
 
 (Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023)
 (Bu Günlük Girdisinin 2. Komit Tarihi: 11 Eylül 2023)
 (Bu Günlük Girdisinin 3. Komit Tarihi: 11 Eylül 2023)
-
+(Bu Günlük Girdisinin 4. Komit Tarihi: 11 Eylül 2023)
 
 
 
