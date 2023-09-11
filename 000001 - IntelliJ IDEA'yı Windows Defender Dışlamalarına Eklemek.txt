@@ -31,5 +31,28 @@ Not 2023-09-11-005: Ayrıca, ikinci bir deneme ise şununla ilgili olacak, bakal
                                        güncelliyor mu görelim.
 
 
+--------------------2. Komit Sonrası Notlar---------------------
+
+
+Not 2023-09-11-006: Bu not 004 numaralı notla ilgilidir. Açıklama: 
+                                        GitHub'daki ilişik repodaki metin belgesi aynen bir Windows işletim sistemindeki metin belgesi 
+                                        gibi davranıyor. Şöyle ki eğer satır pencereden uzunsa satır sağa doğru devam ediyor.
+                                        Bir LibreOffice OpenDocument metninde ise bir satırın sonunda satır pencerenin dışına taşmıyor, 
+                                        kesilip alt satırdan devam ediyor. İşte, repodaki metin belgesi böyle davranmıyor, aynen bilgisayardaki metin belgesi
+                                        gibi davranıyor. Vurgulanan hususu hatırlayabilmem için yukarıdaki ilk beş nottaki uzun satırları
+                                        değiştirmeyeceğim. 
+Not 2023-09-11-007:  Bu metin belgesi hariç olmak üzere, bundan sonra günlükte eğer bir metin belgesinde yazım ya da noktalama hatası
+                                        yapmış olursam, yaptığım güncelleme komitlerinde, yazım ve noktalama düzeltmelerinden bahsetmeyeceğim. Çünkü,
+                                        bilgileri hatırlamak için metin belgelerini gelecekte yeniden okuduğumda, böyle küçük meselelerin dikkatimi dağıtmaması
+                                        gerekiyor. Günlük girdisine geri döndüğümde aradığım bilgiyi olabildiğince çabuk bulabilmeliyim.
+
+
+
+
+(Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023)
+(Bu Günlük Girdisinin 2. Komit Tarihi: 11 Eylül 2023)
+
+
+
 
 
