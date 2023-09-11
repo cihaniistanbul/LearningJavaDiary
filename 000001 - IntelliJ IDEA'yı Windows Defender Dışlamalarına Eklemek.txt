@@ -1,0 +1,35 @@
+IntelliJ IDEA programını her projede değil de tamamen Windows Defender 
+dışlamalarına eklemek için yapılması gerekenler:
+
+► Görev Çubuğu'ndaki arama simgesine tıkla.
+
+► "Windows Güvenliği ayarları" yaz ve oraya git.
+
+► "Koruma alanları" başlığı altında "Virüs ve tehdit koruması" bölümüne git.
+
+► "Virüs ve tehdit koruması ayarları" başlığı altında "Ayarları yönet"e git.
+
+► "Dışlamalar" başlığı altında "Dışarıda bırakılanları ekle veya kaldır"a git.
+
+► Açılan "Dışlamalar" bölümünde "+Bir dışlama ekle" kutusuna tıkla.
+
+► "Klasör"e tıkla ve daha önceden kopyalamış olduğun şu klasör yollarını yapıştır: 
+      C:\Users\sserd\AppData\Local\JetBrains\IdeaIC2023.2
+      D:\Bookmarks\Programming\Projects
+
+
+
+Not 2023-09-11-001: Son basamaktaki şu klasör yolu (D:\Bookmarks\Programming\Projects) içinde IntelliJ IDEA projelerini kaydettiğim klasör. 
+Not 2023-09-11-002: Son basamaktaki şu klasör yolu (D:\Bookmarks\Programming\Projects) IntelliJ IDEA'nın program klasörlerinden birisi. Burada geçen "sserd" değişken bir klasör adı. Klasör yolunun sonundaki "IdeaIC2023.2" kelimesi de değişken.
+                                       Dolayısıyla, bir gün başka bir bilgisayarda veya başka bir formattan sonra bunlar değişecek.
+Not 2023-09-11-003: Windows 10'un şu anki versiyonu nasılsa, eklediğim dışlamalara rağmen yine de bu dışlamaları algılamayıp uyarı kutusunu IntelliJ IDEA'nın
+                                        göstermesine sebep olabilir.
+Not 2023-09-11-004: Bu metin belgesinin GitHub'daki repoda nasıl görüntüleneceğini tam olarak bilmiyorum. Notlar kısmındaki satırları, pencerenin darlığından dolayı
+                                       bilgisayarımda göründüğünden farklı gösterebilir, deneyelim ve görelim nasıl.
+Not 2023-09-11-005: Ayrıca, ikinci bir deneme ise şununla ilgili olacak, bakalım bu metin belgesini commit yaptıktan sonra metinde değişiklik yaptığımda ve tekrar
+                                       commit yaptığımda, bu ikinci commit repoda farklı bir dosyanın oluşmasına mı yol açıyor, yoksa aynı isimdeki mevcut metin belgesini değiştirip
+                                       güncelliyor mu görelim.
+
+
+
+
