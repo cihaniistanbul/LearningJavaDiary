@@ -138,6 +138,11 @@ Komit mesajı: Diary-Entry-000001-Change-000003
 _________________5. Komit_________________
 Tarih: 11 Eylül 2023
 URL: 
-Komit mesajına tıkla: Diary-Entry-000001-Change-000003
+https://github.com/seyitserdarcihan/LearningJavaDiary/commit/a417e549663c724ac0ed6cdb85c729dd4bcf612d
+Komit mesajı: Diary-Entry-000001-Change-000004
+_________________6. Komit_________________
+Tarih: 11 Eylül 2023
+URL: 
+Komit mesajına tıkla: Diary-Entry-000001-Change-000005
 
 
