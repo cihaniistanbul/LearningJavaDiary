@@ -47,11 +47,39 @@ Not 2023-09-11-007:  Bu metin belgesi hariç olmak üzere, bundan sonra günlük
                                         gerekiyor. Günlük girdisine geri döndüğümde aradığım bilgiyi olabildiğince çabuk bulabilmeliyim.
 
 
+--------------------3. Komit Sonrası Notlar---------------------
+
+Not 2023-09-11-008: Bu not 005 numaralı notla ilgilidir. Evet, öğrenmiş oldum ki, 
+          Eğer, repoda ve lokal klasörde yer alan bir dosyayı (örnekte, bu metin belgesi) birinci komitten sonra değiştirirsen
+          ve yeniden komit yaparsan, GitHub, repodaki aynı adlı dosyayı değiştiriyor. Orada ikinci bir dosya oluşturmuyor.
+          Bilmediğim şey ise şu, acaba GitHub'da, değiştirilmiş olan dosyanın daha önceki versiyonlarına erişmenin bir yolu var mı? 
+          Örneğin bilgisayarda, o dosya artık yok, onun yerine güncellenmiş hâli var. Meselâ, o değiştirilmiş ve kaydedilmiş
+          metin belgesine tıkladım ve "Önceki Sürümleri Geri Yükle"ye tıkladım. Açılan pencerede şöyle yazıyor:
+          Kullanılabilecek daha önceki sürüm yok. Belki bunun sebebi, bilgisayarda, işletim sisteminin geri yükleme noktaları
+          oluşturma özelliğini devre dışı bıraktığım için olabilir. Ancak, bunu keşfetmek için onu geri aktif hâle getirmeyeceğim.
+          Çünkü bilgisayarın geri yükleme noktası oluşturma özelliği sinir bozucu bir şey. Bilgisayarın diskini kısa sürede 
+          dolduruyor. Bununla uğraşmak istemiyorum. Burada önemli olan keşif, GitHub'ın değiştirilen dosyayı güncellemesi 
+          ve bu güzel.
+
+Not 2023-09-11-009: GitHub'da bir metin belgesine tıkladığınızda açılan sayfada metin belgesinin içindeki boşluk karakterinin 
+          piksel mesafesi, bilgisayardakinden daha uzun. Üşenmeyip saydım, yukarıdaki ilk yedi nottaki ikinci satır ve devamındaki 
+          satırların satırbaşı boşluğu 40 space tuşu tıklaması kadar sağa doğru. GitHub'daki dosyanın paragraf boşluğu da aynı sayıda 
+          karakter yuvasından oluşmasına rağmen, iki boşluğun uzunluklarının piksel mesafesi aynı değil. 
+          Belki de bu Google Chrome ile ilgilidir ve GitHub sitesi ile ilgisi yoktur. Her neyse, bu yüzden 008 numaralı ve 
+          devamındaki notların ikinci satır ve devamı satırbaşı boşluğunu 10 boşluk karakterine indirdim. Bakalım nasıl görünecek. 
+          İstediğim sonucu alacağımı umuyorum.
+
+Not 2023-09-11-010: GitHub sitesinin temel kavramlarından olan İngilizce commit kelimesinin Türkçe'de hoşuma giden bir
+          karşılığını bulamadım. Bu yüzden commit kelimesi yerine çoğu zaman komit kelimesini kullanacağım Türkçe uyarlama 
+          olarak.   
+
+
+
 
 
 (Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023)
 (Bu Günlük Girdisinin 2. Komit Tarihi: 11 Eylül 2023)
-
+(Bu Günlük Girdisinin 3. Komit Tarihi: 11 Eylül 2023)
 
 
 
