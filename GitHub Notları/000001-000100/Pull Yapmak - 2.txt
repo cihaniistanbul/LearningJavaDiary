@@ -1,0 +1,33 @@
+Eğer repodaki her şey, lokal klon ile aynı durumda ise ve 
+"Bakalım ne olacak?" diye 
+git pull
+komutunu çalıştırırsan, alacağın cevap şu:
+Already up to date
+
+
+Dolayısıyla endişe edecek bir şey yok, 
+sadece küçük bir deneydi.
+
+
+Ama, deneyler her zaman böyle güvenli sonuçlar doğurmaz,
+felakete yol açabilir, özellikle kocaman bir program yazdığında
+gelecekte, sakın üzerinde rastgele deneyler yapma!
+
+
+Bunun için yapman gereken şu:
+
+     Birinci Aşama:
+     Büyük projenin klasörünü bilgisayardaki başka bir yere kopyala.
+
+     İkinci Aşama:
+     IntelliJ IDEA'da o projeyi aç (Henüz hiç denemedim, çünkü henüz yazdığım
+     program yok)
+
+     Üçüncü Aşama:
+     Ana menüdeki Git seçeneklerini kullanarak GitHub'da o proje için
+     bir repo oluştur.
+
+     Dördüncü Aşama:
+     Artık istediğin gibi deney yapabilirsin.
+
+
