@@ -1,5 +1,6 @@
-Aşağıdaki kodda odaklanman gereken şu karakter %n
-Bu karakter bir stringe eklendiğinde, stringin neresine eklenirse ondan sonraki
+Aşağıdaki kodda odaklanman gereken şu kısım: 
+%n
+Bu kod bir stringe eklendiğinde, stringin neresine eklenirse ondan sonraki
 kısmı yeni satır olarak output yapıyor.
 
 
@@ -35,13 +36,16 @@ i = 5
 
 
 
+Kullanılan IDE: IntelliJ IDEA
+Programlama Dili: Java
+
 
 
 _________________Bu Günlük Girdisinin Komit Tarihleri_________________
 _________________1. Komit_________________
 Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000003-Change-000000
-Kullanılan IDE: IntelliJ IDEA
-Programlama Dili: Java
+URL: https://github.com/seyitserdarcihan/LearningJavaDiary/commit/628be01241bec92d3986ebb53cf21ebdd0866dbc
 
-
+_________________2. Komit_________________
+Tarih: 12 Eylül 2023 
+URL için komit mesajına tıkla: Diary-Entry-000003-Change-000001 
