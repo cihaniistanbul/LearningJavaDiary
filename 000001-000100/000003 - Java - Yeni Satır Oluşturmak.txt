@@ -40,17 +40,4 @@ Kullanılan IDE: IntelliJ IDEA
 Programlama Dili: Java
 
 
-
-_________________Bu Günlük Girdisinin Komit Tarihleri_________________
-_________________1. Komit_________________
-Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
-URL:
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/628be01241bec92d3986ebb53cf21ebdd0866dbc
-
-_________________2. Komit_________________
-Tarih: 12 Eylül 2023 
-URL: https://github.com/seyitserdarcihan/LearningJavaDiary/commit/6233d3f8be6a30dd1444a6dea77c454a4e11e660
-
-_________________3. Komit_________________
-Tarih: 12 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000003-Change-000002 
+  

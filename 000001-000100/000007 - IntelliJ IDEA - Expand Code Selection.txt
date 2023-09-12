@@ -14,12 +14,6 @@ IDE: IntelliJ IDEA
 Language: Java
 
 
-
-_________________1. Komit_________________
-Tarih: 12 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000007-Change-000000 
-
-
-
+ 
 
 

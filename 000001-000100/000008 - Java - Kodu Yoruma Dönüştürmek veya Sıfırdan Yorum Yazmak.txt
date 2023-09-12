@@ -23,14 +23,4 @@ ters eğik çizgi = backslash
 yıldız = asterisk
 
 
-
-_________________1. Komit_________________
-Tarih: 12 Eylül 2023 
-URL: https://github.com/seyitserdarcihan/LearningJavaDiary/commit/03df1065969f93c8f1b38350f9f9bd00aac88255  
-
-_________________2. Komit_________________
-Tarih: 12 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000008-Change-000001
-
-
-
+ 

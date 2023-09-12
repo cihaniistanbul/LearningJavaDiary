@@ -114,35 +114,4 @@ Not 2023-09-11-013: Bu not 012 numaralı notla ilgili. Önceki komit işlemeleri
 
 
 
-_________________Bu Günlük Girdisinin Komit Tarihleri_________________
-_________________1. Komit_________________
-Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
-URL:
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/d19fe5c6146f897f84970b47c94c735eb86ab9fa
-Komit mesajı: Diary-Entry-000001-Change-000000
-_________________2. Komit_________________
-Tarih: 11 Eylül 2023 
-URL:
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/ceda9734d85a85d6009dcda0b683b81daecebcbd
-Komit mesajı: Diary-Entry-000001-Change-000001
-_________________3. Komit_________________
-Tarih: 11 Eylül 2023
-URL: 
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/1e7cc25ffc52fdd3b63c7dbba6f67dea7075ed80
-Komit mesajı: Diary-Entry-000001-Change-000002
-_________________4. Komit_________________
-Tarih: 11 Eylül 2023
-URL: 
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/9652b6f94df7ca96959b0582c2636f7b185c729f
-Komit mesajı: Diary-Entry-000001-Change-000003
-_________________5. Komit_________________
-Tarih: 11 Eylül 2023
-URL: 
-https://github.com/seyitserdarcihan/LearningJavaDiary/commit/a417e549663c724ac0ed6cdb85c729dd4bcf612d
-Komit mesajı: Diary-Entry-000001-Change-000004
-_________________6. Komit_________________
-Tarih: 11 Eylül 2023
-URL: 
-Komit mesajına tıkla: Diary-Entry-000001-Change-000005
-
 

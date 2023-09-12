@@ -7,15 +7,4 @@
 
 
 
-
-
-_________________Bu Günlük Girdisinin Komit Tarihleri_________________
-_________________1. Komit_________________
-Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
-URL:
-Komit mesajına tıkla: Diary-Entry-000002-Change-000000
-
-
-
-
-
+ 

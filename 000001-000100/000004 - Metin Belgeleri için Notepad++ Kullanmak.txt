@@ -31,10 +31,4 @@ https://notepad-plus-plus.org/downloads/
    
 Notepad++ hakkında bilgi:
 https://en.wikipedia.org/wiki/Notepad%2B%2B
-
-
-_________________Bu Günlük Girdisinin Komit Tarihleri_________________
-_________________1. Komit_________________
-Bu Günlük Girdisinin İlk Yazıldığı Tarih: 11 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000004-Change-000000
-
+ 

@@ -53,17 +53,6 @@ değişikliklerin gerçekleştiğini görebilirsin.
 
 IDE: IntelliJ IDEA
 
-
-
-
-_________________1. Komit_________________
-Tarih: 12 Eylül 2023 
-URL için komit mesajına tıkla: Diary-Entry-000005-Change-000000 
-
-
-
-	
-	
-	
+ 
 	
 	
