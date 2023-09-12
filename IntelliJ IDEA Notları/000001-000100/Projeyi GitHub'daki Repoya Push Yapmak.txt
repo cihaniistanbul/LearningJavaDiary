@@ -49,10 +49,6 @@ değişikliklerin gerçekleştiğini görebilirsin.
 
 
 
-
-
-IDE: IntelliJ IDEA
-
  
 	
 	
