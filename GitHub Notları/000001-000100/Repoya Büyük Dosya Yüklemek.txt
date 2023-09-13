@@ -41,9 +41,9 @@ aşamayı uyguladın.
 	 
 	 
 9) Şimdi şu üç komutu uygulayabilirsin:
-     git add .
-	 git commit -m"commitmessage"
-	 git push
+git add .
+git commit -m"commitmessage"
+git push
 	 
 Mesela, 30 MB'lık bir PDF dosyasını proje 
 klasörünün içine yapıştır. Ardından, üstteki
