@@ -25,7 +25,7 @@ And maybe you can find the exact thing. Just survey notes.</p>
 <br>
 <br>
 <p>Why on Earth did I write readme file in English language if the repository contents are in Turkish?
-Because, I thought a person who is a native Turkish speaker and knows enough English to be able to learn Java.
+Because, I imagined a person who is a native Turkish speaker and knows enough English to be able to learn Java.
 He comes across my repository and finds many notes in a language he finds most familiar in his own 
 Learning Java Journey.</p>
 <br>
