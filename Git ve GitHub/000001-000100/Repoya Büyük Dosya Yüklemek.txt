@@ -31,6 +31,8 @@ Komut İstemi penceresinde şu komutu gir:
 7) Komut İstemi penceresini henüz kapatma. Şu komutu
 da gir ve Enter:
 	 git add .gitattributes
+Bu komutu bu projede bir daha girmene gerek kalmayacak.
+Ama 6. aşamadaki komutu her uzantı için kullanacaksın.
 	 
 	 
 8) Yukarıdaki yedi aşamanın hepsi şunu varsayıyor:
