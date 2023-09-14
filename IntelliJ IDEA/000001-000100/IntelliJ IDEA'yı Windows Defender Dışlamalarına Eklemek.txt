@@ -15,6 +15,11 @@ dışlamalarına eklemek için yapılması gerekenler:
 
 ► "Klasör"e tıkla ve daha önceden kopyalamış olduğun şu klasör yollarını yapıştır: 
       C:\Users\sserd\AppData\Local\JetBrains\IdeaIC2023.2
+	  C:\Program Files\JetBrains
       D:\Bookmarks\Programming\Projects
+       
 
 
+
+
+ 
