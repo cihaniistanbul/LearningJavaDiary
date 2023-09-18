@@ -7,10 +7,8 @@ computer world.</p>
 <br>
 <br>
 <p>Therefore, there will be no running codes, scripts, programs in this repository. 
-But there will be incomplete codes here and there which will sometimes only makes sense to me.
+But there will be incomplete codes here and there.
 This is a personal source of knowledge for me to able to go back and remember something if I forget them.
-I will not store in this repository unimportant diary notes. For such notes, I created<br>
-https://github.com/seyitserdarcihan/MyAnyNotes</p>
 <br>
 <br>
 <p>If it is personal, why on Earth do I make this public?
