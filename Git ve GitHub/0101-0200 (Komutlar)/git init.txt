@@ -1,5 +1,9 @@
 Bir proje klasörünü Git sistemiyle ilişkilendirmenin 
-ilk adımı olan komut.
+ilk adımı olan komut şudur:
+git init
+
+
+
 
 
 

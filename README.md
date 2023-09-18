@@ -16,12 +16,6 @@ This is a notebook sort of diary and there is nothing personally personal here, 
 I call this kind of notebooks <em>publicly personal register</em>.</p>
 <br>
 <br>
-<p>Why on Earth did I write readme file in English language if the repository contents are in Turkish?
-Because, I imagined a person who is a native Turkish speaker and knows enough English to be able to learn Java.
-He comes across my repository and finds many notes in a language he finds most familiar in his own 
-Learning Java Journey.</p>
-<br>
-<br>
 <p>This readme file was created for the first time on September 13, 2023.<br>
-Last edit to this readme file: September 14, 2023.</p>
+Last edit to this readme file: September 19, 2023.</p>
 
